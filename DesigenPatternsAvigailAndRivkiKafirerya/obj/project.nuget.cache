@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "o677fTVwBnC/gpxwabkaVpAAjS7iFQT04fbG5jjVOUkOhfuakB3PYSEvLfvqyAKJS41N6Va+RJExZwzDxLW75w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rivka\\Desktop\\תכנות שנה ב\\DesignPatterns\\DesigenPatternsAvigailAndRivkiKafirerya\\DesigenPatternsAvigailAndRivkiKafirerya\\DesigenPatternsAvigailAndRivkiKafirerya.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rivka\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Rivka\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Rivka\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0\\system.diagnostics.tracing.4.3.0.nupkg.sha512",
+    "C:\\Users\\Rivka\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
